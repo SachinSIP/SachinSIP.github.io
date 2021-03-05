@@ -4,7 +4,7 @@
 
 
 
-""Hello Everyone,I'm SacDot this is my OSCP preparation resources site. If you like it share it with your friends....""
+
 
 
 
